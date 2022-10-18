@@ -9,5 +9,7 @@ PallindromeString
 PallindromeStringRecursion
  - This class contain how to check a String is pllindrome with recursion. 
 
+PallindromUsingRecurssion
+ - This class contains how to check pallidrome with recurssion with little different approach
 
 Any comments to imporve will be appreciated.
